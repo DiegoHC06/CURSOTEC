@@ -20,4 +20,8 @@
 ## git restore  <archivo>
 >funciona de manera parecida al reset-- soft pero no borra de manera permanente lo que esta en memoria ram.
 ## git status
-ver 
+ver el estado del proceso
+## git branch <Nombre_de_lista>
+>sirve para crear una rama
+## git config -- global user.name ""
+>esto hace cambiar de puesto nombre
